@@ -1,0 +1,37 @@
+.category {
+    color: #000;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.category-name {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+hr {
+    margin-top: 15px; 
+    margin-bottom: 15px;
+}
+
+.article-wrapper {
+    margin: 0;
+}
+
+.article-image {
+    width: 130px;
+    height: 80px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.article-container {
+    width: 455px;
+}
+
+.article-text {
+    margin: 0;
+}

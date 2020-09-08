@@ -1,0 +1,35 @@
+body {
+    background-color: #fafafa;
+}
+.main {
+    width: 600px;
+    padding: 50px;
+    margin: 20vh auto 0;
+    background-color: #fff;
+    border: 1px solid #d1d1d1;
+}
+#name_form {
+    margin: 0 auto;
+    text-align: center;
+}
+#app_user_name {
+    display: inline-block;
+    width: 400px;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid #d1d1d1;
+}
+.btn {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+button {
+    background-color: #41b6e6;
+    color: white;
+    padding: 0 15px;
+    border: none;
+}
+#update_btn, #back_btn {
+    margin: 0 10px;
+}
